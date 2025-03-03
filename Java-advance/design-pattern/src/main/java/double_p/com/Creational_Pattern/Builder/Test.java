@@ -4,7 +4,7 @@ public class Test {
     public static void main(String[] args) {
         Student student = new Student.Builder().setName("PhucP")
                                                 .setAge(24)
-                                                //.setAddress("Your heart")
+                                                .setAddress("Your heart")
                                                 .build();
         System.out.println(student.toString());
     }
