@@ -1,4 +1,4 @@
-package org.example.DesignPattern.Facade;
+package double_p.com.Structural_Patterns.Facade;
 
 public class VideoFile {
     public void renderVideoFile(String fileName){

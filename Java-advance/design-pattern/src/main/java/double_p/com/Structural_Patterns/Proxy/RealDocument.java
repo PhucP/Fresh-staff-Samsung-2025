@@ -1,4 +1,4 @@
-package org.example.DesignPattern.Proxy;
+package double_p.com.Structural_Patterns.Proxy;
 
 public class RealDocument implements  Document{
     private String fileName;

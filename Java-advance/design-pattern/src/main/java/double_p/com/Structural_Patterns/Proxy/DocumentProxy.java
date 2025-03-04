@@ -1,4 +1,4 @@
-package org.example.DesignPattern.Proxy;
+package double_p.com.Structural_Patterns.Proxy;
 
 import java.util.Objects;
 

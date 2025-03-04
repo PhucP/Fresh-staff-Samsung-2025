@@ -1,4 +1,4 @@
-package org.example.DesignPattern.Decorator;
+package double_p.com.Structural_Patterns.Decorator;
 
 public interface Coffee {
     public String getDescription();

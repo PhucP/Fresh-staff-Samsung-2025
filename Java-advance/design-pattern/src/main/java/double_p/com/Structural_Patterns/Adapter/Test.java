@@ -1,4 +1,4 @@
-package org.example.DesignPattern.Adapter;
+package double_p.com.Structural_Patterns.Adapter;
 
 public class Test {
     public static void main(String[] args) {

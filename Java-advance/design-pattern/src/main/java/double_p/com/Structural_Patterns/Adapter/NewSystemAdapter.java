@@ -1,4 +1,6 @@
-package org.example.DesignPattern.Adapter;
+package double_p.com.Structural_Patterns.Adapter;
+
+import org.example.DesignPattern.Adapter.OldSystemLog;
 
 public class NewSystemAdapter extends OldSystemLog{
     @Override

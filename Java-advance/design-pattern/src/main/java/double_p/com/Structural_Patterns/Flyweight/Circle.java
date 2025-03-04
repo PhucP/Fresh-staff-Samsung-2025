@@ -1,4 +1,4 @@
-package org.example.DesignPattern.Flyweight;
+package double_p.com.Structural_Patterns.Flyweight;
 
 public class Circle implements Shape {
     private final String color;

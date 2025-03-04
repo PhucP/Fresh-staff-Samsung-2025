@@ -1,4 +1,4 @@
-package org.example.DesignPattern.Conposite;
+package double_p.com.Structural_Patterns.Conposite;
 
 import lombok.Builder;
 import lombok.Data;

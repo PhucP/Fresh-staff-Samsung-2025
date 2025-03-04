@@ -1,4 +1,4 @@
-package org.example.DesignPattern.Facade;
+package double_p.com.Structural_Patterns.Facade;
 
 public class VideoConverterFacade {
     public void ConvertVideo(String fileName, String format){
