@@ -1,0 +1,25 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: demo
+  datasource:
+    url: jdbc:mysql://localhost:33060/test  
+    username: root                          
+    password: root                
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    hikari:
+      maximum-pool-size: 10
+  jpa:
+    hibernate:
+      ddl-auto: update                      
+    show-sql: true                           
+    properties:
+      hibernate:
+        format_sql: true
+        use_sql_comments: true
+
+
+repo:
+    type: Json
